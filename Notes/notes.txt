@@ -1,0 +1,15 @@
+react js is a library for building ui 
+
+> repitative code in html css js
+> messy dom 
+>hard to manage state 
+>poor scalability 
+_______
+solves this buy 
+Components → Reusable building blocks.
+Virtual DOM → Fast updates without touching real DOM too much.
+State Management → Keeps data in sync with UI automatically.
+
+build once use it everywhere
+scales to large apps
+

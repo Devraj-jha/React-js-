@@ -1,0 +1,12 @@
+react-learning/
+ ├── node_modules/       # all external libraries
+ ├── public/             # static assets (images, favicon)
+ ├── src/                # main code lives here
+ │    ├── App.jsx        # your main component
+ │    ├── main.jsx       # entry point
+ │    └── index.css      # global styles (can be deleted/edited)
+ ├── .gitignore          # tells Git what to ignore (like node_modules)
+ ├── package.json        # project info + dependencies
+ ├── vite.config.js      # vite configuration
+ ├── package-lock.json   # exact dependency versions
+ └── README.md
